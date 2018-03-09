@@ -35,7 +35,7 @@ public class QNB
 	
 	public static void test()
 	{
-		
+		system.put.println("test Okay");
 	}
 	
 	public static void main(String[] args)
